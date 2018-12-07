@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CARDbag</string>
+    <string name="title_activity_card_list">Мои карты</string>
+    <string name="empty_view_title_cards">Нет карт</string>
+    <string name="empty_view_description_cards">Нажмите «плюс», чтобы добавить первую карту</string>
+
+    <string name="menu_item_title_profile">Мой профиль</string>
 </resources>
