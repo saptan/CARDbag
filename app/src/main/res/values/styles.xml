@@ -5,12 +5,31 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlNormal">@color/colorTitle</item>
     </style>
 
-    <style name="WhiteToolbar" parent="Theme.AppCompat.NoActionBar">
+    <style name="WhiteToolbar">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">?attr/actionBarSize</item>
         <item name="android:background">@color/colorToolbar</item>
+    </style>
+
+    <style name="TitleCard">
+        <item name="android:textColor">@color/colorTitle</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="CaptionCategory">
+        <item name="android:textColor">@color/colorCaptionCategory</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="CaptionDiscount">
+        <item name="android:textColor">@color/colorCaptionDiscount</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
     </style>
 
 </resources>

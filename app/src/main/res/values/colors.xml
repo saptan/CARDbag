@@ -5,5 +5,7 @@
     <color name="colorAccent">#009788</color>
     <color name="colorToolbar">#FFFFFF</color>
     <color name="colorTitle">#333333</color>
+    <color name="colorCaptionCategory">#9B9B9B</color>
+    <color name="colorCaptionDiscount">#009788</color>
     <color name="colorActivityBg">#EDEDED</color>
 </resources>

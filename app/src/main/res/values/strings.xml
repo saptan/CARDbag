@@ -1,8 +1,13 @@
 <resources>
     <string name="app_name">CARDbag</string>
     <string name="title_activity_card_list">Мои карты</string>
+    <string name="title_activity_add_card">Добавить карту</string>
     <string name="empty_view_title_cards">Нет карт</string>
     <string name="empty_view_description_cards">Нажмите «плюс», чтобы добавить первую карту</string>
 
     <string name="menu_item_title_profile">Мой профиль</string>
+    <string name="hint_card_name">Название карты</string>
+    <string name="hint_category">Категория</string>
+    <string name="hint_discount">Процент скидки</string>
+    <string name="btn_save">Сохранить</string>
 </resources>
